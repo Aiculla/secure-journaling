@@ -125,8 +125,4 @@ class JournalEntriesController < ApplicationController
       render json: { Success: false, Message: 'Error When Retrieving Entries', Error: e.message, Data: nil }
     end
   end
-
-  
-  
-  
 end

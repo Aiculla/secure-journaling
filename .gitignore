@@ -67,3 +67,4 @@ secure-journaling/config/secrets.yml
 
 cache
 tmp
+.env
