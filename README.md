@@ -1,9 +1,6 @@
 # secure-journaling
 
 
-Put on EC2 Instance 
-Access credentials
-
 
 Create Facial Recognition Screen
 

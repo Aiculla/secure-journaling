@@ -10,7 +10,7 @@ Amplify.configure({
         userPoolId: 'us-east-1_dEjoJ6OEo', 
         userPoolWebClientId: '6milpac6g46ehij45qulm1sdbo',
         oauth: {
-            domain: 'https://secure-journaling.auth.us-east-1.amazoncognito.com',
+            domain: 'secure-journaling.auth.us-east-1.amazoncognito.com',
             scope: ['email', 'openid'],
             redirectSignIn: 'http://localhost:8080', // or your domain
             redirectSignOut: 'http://localhost:8080', // or your domain

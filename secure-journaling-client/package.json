@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "aws-amplify": "^5.2.2",
+    "aws-amplify-vue": "^2.1.9",
     "aws-sdk": "^2.1383.0",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
